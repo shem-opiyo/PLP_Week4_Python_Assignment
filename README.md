@@ -25,8 +25,8 @@ It allows the user to enter a filename, read its contents, modify the text (conv
 
 ## 🛠️ Usage
 1. Make sure you have **Python 3.x** installed.  
-2. Save the program in a file, for example: `file_handler.py`.  
+2. Save the program in a file, for example: `file_handling_program.py`.  
 3. Run the program from your terminal:
 
 ```bash
-python file_handler.py
+python file_handling_program.py
