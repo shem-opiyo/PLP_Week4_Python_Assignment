@@ -1,4 +1,4 @@
-# 📂 File Handling + Error Handling Challenge
+# 📂 File Handling + Error Handling Assignment
 
 This is a simple **Python program** that demonstrates file handling and error handling.  
 It allows the user to enter a filename, read its contents, modify the text (convert to uppercase), and save the modified version into a **new file**.
